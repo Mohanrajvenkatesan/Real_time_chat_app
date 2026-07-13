@@ -174,7 +174,7 @@ Chat-Application/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/real-time-chat-app.git
+git clone https://github.com/Mohanrajvenkatesan/real-time-chat-app.git
 
 cd real-time-chat-app
 ```
@@ -199,35 +199,6 @@ npm install
 
 ---
 
-# 🔐 Environment Variables
-
-## Backend (.env)
-
-```env
-PORT=5000
-
-MONGODB_URI=your_mongodb_connection_string
-
-JWT_SECRET=your_secret_key
-
-REDIS_URL=your_redis_url
-
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-
-CLOUDINARY_API_KEY=your_api_key
-
-CLOUDINARY_API_SECRET=your_api_secret
-```
-
-## Frontend (.env)
-
-```env
-VITE_API_URL=http://localhost:5000
-
-VITE_SOCKET_URL=http://localhost:5000
-```
-
----
 
 # ▶️ Run the Application
 
